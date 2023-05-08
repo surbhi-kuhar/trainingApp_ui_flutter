@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Glutes",
+    "image": "assets/glutes.jpg"
+
+  },
+  {
+    "title": "Abs",
+    "image": "assets/abs.jpg"
+
+  },
+  {
+    "title": "Calves",
+    "image": "assets/calves.jpg"
+
+  },
+  {
+    "title": "Quads",
+    "image": "assets/quads.jpg"
+
+  }
+
+]
